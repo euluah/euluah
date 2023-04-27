@@ -17,3 +17,17 @@
   <a href="https://www.linkedin.com/in/luana-machado-b35405125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euluah&count_private=true&show_icons=true&theme=synthwave)
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=hackatondetesteweb&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=hackatondetesteweb&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euluah&size_weight=0.5&count_weight=0.5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
