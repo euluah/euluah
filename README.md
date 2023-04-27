@@ -1,5 +1,8 @@
 ## Olá! Eu sou a Luana Machado
 
+Sou analista de sistemas, graduada pela Universidade Estadual do Sudoeste da Bahia. Busco atuar como Analista de Teste Jr. 
+Neste momento, estou cursando o Oracle Next Education produzido pelo Alura, em parceria com a Latam com formação especializada no Front-end. 
+
 <img src = "https://github-readme-stats.vercel.app/api?username=euluah&count_private=true&show_icons=true&theme=radical"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euluah&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
  
