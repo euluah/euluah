@@ -26,10 +26,10 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/euluah/HackatonDeTesteWEB">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=hackatondetesteweb&theme=radical" />
 </a>     
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/euluah/HackatonDeTestes">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
 </a>
   
