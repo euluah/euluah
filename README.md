@@ -34,6 +34,12 @@ Neste momento, estou cursando o Oracle Next Education produzido pelo Alura, em p
 <a href="https://github.com/euluah/HackatonDeTestes">
   <img src="https://github-readme-stats-euluah.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
 </a>
+<a href="https://github.com/euluah/hackaton-chapteriv-agilizei">
+  <img src="https://github-readme-stats-euluah.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
+</a>
+<a href="https://github.com/euluah/chapterv-agilizei">
+  <img src="https://github-readme-stats-euluah.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
+</a>
   
   
 ![Snake animation](https://github.com/euluah/euluah/blob/output/github-contribution-grid-snake.svg)
