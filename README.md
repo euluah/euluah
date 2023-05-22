@@ -4,7 +4,7 @@ Sou analista de sistemas, graduada pela Universidade Estadual do Sudoeste da Bah
 Neste momento, estou cursando o Oracle Next Education produzido pelo Alura, em parceria com a Latam com formação especializada no Front-end. 
 
 <img src = "https://github-readme-stats-euluah.vercel.app/api?username=euluah&count_private=true&show_icons=true&theme=radical"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euluah&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
+<img src="https://github-readme-stats-euluah.vercel.app/api/top-langs/?username=euluah&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
  
 ##
 
@@ -29,10 +29,10 @@ Neste momento, estou cursando o Oracle Next Education produzido pelo Alura, em p
 ##
 
 <a href="https://github.com/euluah/HackatonDeTesteWEB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=hackatondetesteweb&theme=radical" />
+  <img src="https://github-readme-stats-euluah.vercel.app/api/pin/?username=euluah&repo=hackatondetesteweb&theme=radical" />
 </a>     
 <a href="https://github.com/euluah/HackatonDeTestes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
+  <img src="https://github-readme-stats-euluah.vercel.app/api/pin/?username=euluah&repo=HackatonDeTestes&theme=radical" />
 </a>
   
   
